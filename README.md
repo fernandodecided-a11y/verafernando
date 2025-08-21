@@ -11,5 +11,5 @@ Este proyecto implementa una API RESTful con Express.js. Incluye:
 ## Instalación
 ```bash
 npm install
-cp .env.example .env
+cp .env
 npm run dev
